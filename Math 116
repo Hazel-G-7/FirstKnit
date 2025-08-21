@@ -1,0 +1,13 @@
+git config --global user.name "Dr K"
+
+git config --global user.email "william.kitto@avc.edu"
+
+git config --global http.sslverify "false"
+
+git config --global core.autocrlf true
+
+git config --global credential.helper 'cache --timeout 3600'
+
+avcpat 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
+
+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
