@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Hazel"
 output: 
   html_document:
     number_sections: true
@@ -17,6 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
+  I attended High School at the Virtual Academy of Antelope Valley. I did graduate in the class of 2025. Comparing the two, English is much easier than math. I did the best in the subject Psychology.
   
 
      
@@ -26,6 +27,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
+  My computer is a Chromebook plus, I would rate myself a 6. My internet access at home is manageable and accesible. 
   
    
 
@@ -33,7 +35,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  I would prefer to be called by Hazel, my name, by both classmates and the instructor. 
    
  
 
@@ -44,7 +46,9 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
+  What I want to achieve in life is time management skills and becoming a tattoo artist. The college subject that is the greatest interest to me would be Art. I am trying to achieve my Art Degree. 
   
+   
    
  
 
@@ -55,6 +59,9 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
+  I have never been to a foreign country, although I would like to go to France. No, I have never been in a military, although the branch I would choose to be drafted in is the U.S Army, because that one seems the most interesting. 
+  
+   
   
    
   
@@ -69,7 +76,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+   I have taken Math 115 in 11th grade, and am now taking Math 116. I did not know that.I believe the grade you need to attain in stats to not upset future plans is 11th grade.My plan is to earn an Art Degree.
  
 
 
